@@ -51,11 +51,11 @@
 
 
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=gedrix&show_icons=true&theme=buefy&count_private=true&hide=issues&line_height=24">
+<img src="https://github-readme-stats.vercel.app/api?username=gedo1104&show_icons=true&theme=buefy&count_private=true&hide=issues&line_height=24">
 <!--[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gedrix&show_icons=true)](https://github.com/gedrix)-->
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedrix&show_icons=true)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedrix&hide=hack,ShaderLab,Less,SCSS&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedo1104&hide=hack,ShaderLab,Less,SCSS&langs_count=8)
 <br>
 
 
